@@ -1,8 +1,8 @@
 # Data_vis_sample-
 Some of the Data Visualization Works!!!
 
-![ ](Sea Level.jpg)
+![ ](Sea%20Level.jpg)
 
-![ ](Melbourne's Climate.jpg)
+![ ](Melbourne's%20Climate.jpg)
 
-![ ](Global warming.jpg)
+![ ](Global%20warming.jpg)
